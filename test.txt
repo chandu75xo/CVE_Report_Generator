@@ -1,0 +1,12 @@
+http://www.itsecgames.com/
+https://webgoat-demo.herokuapp.com/WebGoat
+http://testphp.vulnweb.com/
+http://xvwa-demo.herokuapp.com/
+https://juice-shop.herokuapp.com/
+http://hackazon.webscantest.com/
+http://mutillidae2.samsclass.info/
+https://google-gruyere.appspot.com/
+http://zero.webappsecurity.com/
+http://demo.testfire.net/
+https://localhost:1337
+http://localhost:8080/WebGoat

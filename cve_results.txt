@@ -1,6 +1,0 @@
-
-=== Apache httpd 2.4.49 on 80/tcp (http) ===
-ERROR: 403 Client Error: Forbidden for url: https://services.nvd.nist.gov/rest/json/cves/1.0?keyword=Apache+httpd+2.4.49&resultsPerPage=3
-
-=== nginx 1.18.0 on 443/tcp (https) ===
-ERROR: 403 Client Error: Forbidden for url: https://services.nvd.nist.gov/rest/json/cves/1.0?keyword=nginx+1.18.0&resultsPerPage=3

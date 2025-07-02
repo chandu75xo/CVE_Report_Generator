@@ -1,0 +1,43 @@
+
+===== Report for http://testphp.vulnweb.com/ =====
+IP Address: 44.228.249.3
+Open Ports: [80]
+Filtered/Closed Ports: [443, 21, 22, 25, 3389, 8080, 8443, 53, 110, 143, 3306, 5432]
+Firewall Status: Possible firewall detected (many filtered/closed ports)
+Software: nginx Version: 1.19.0
+ERROR: RedHat: 403 Client Error: Forbidden for url: https://access.redhat.com/labs/securitydataapi/cve.json?package=nginx
+CVE-2025-50202: Lychee is a free photo-management tool. In versions starting from 6.6.6 to before 6.6.10, an attacker can leak local files including environment variables, nginx logs, other user's uploaded images, and configuration secrets due to a path traversal exploit in SecurePathController.php. This issue has been patched in version 6.6.10.
+CVE-2025-48866: ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. Versions prior to 2.9.10 contain a denial of service vulnerability similar to GHSA-859r-vvv8-rm8r/CVE-2025-47947. The `sanitiseArg` (and `sanitizeArg` - this is the same action but an alias) is vulnerable to adding an excessive number of arguments, thereby leading to denial of service. Version 2.9.10 fixes the issue. As a workaround, avoid using rules that contain the `sanitiseArg` (or `sanitizeArg`) action.
+CVE-2025-47947: ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. Versions up to and including 2.9.8 are vulnerable to denial of service in one special case (in stable released versions): when the payload's content type is `application/json`, and there is at least one rule which does a `sanitiseMatchedBytes` action. A patch is available at pull request 3389 and expected to be part of version 2.9.9. No known workarounds are available.
+CVE-2025-47942: The Open edX Platform is a learning management platform. Prior to commit 6740e75c0fdc7ba095baf88e9f5e4f3e15cfd8ba, edxapp has no built-in protection against downloading the python_lib.zip asset from courses, which is a concern since it often contains custom grading code or answers to course problems. This potentially affects any course using custom Python-graded problem blocks. The openedx/configuration repo has had a patch since 2016 in the form of an nginx rule, but this was only intended as a temporary mitigation. As the configuration repo has been deprecated and we have not been able to locate any similar protection in Tutor, it is likely that most deployments have no protection against python_lib.zip being downloaded. The recommended mitigation, implemented in commit 6740e75c0fdc7ba095baf88e9f5e4f3e15cfd8ba, restricts python_lib.zip downloads to just the course team and site staff/superusers.
+
+===== Report for http://www.itsecgames.com/ =====
+IP Address: 31.3.96.40
+Open Ports: [80, 443, 22]
+Filtered/Closed Ports: [21, 25, 3389, 8080, 8443, 53, 110, 143, 3306, 5432]
+Firewall Status: Possible firewall detected (many filtered/closed ports)
+Software: Apache Version: 
+ERROR: RedHat: 403 Client Error: Forbidden for url: https://access.redhat.com/labs/securitydataapi/cve.json?package=apache
+CVE-2025-50213: Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) vulnerability in Apache Airflow Providers Snowflake. This issue affects Apache Airflow Providers Snowflake: before 6.4.0. Sanitation of table and stage parameters were added in CopyFromExternalStageToSnowflakeOperator to prevent SQL injection Users are recommended to upgrade to version 6.4.0, which fixes the issue.
+CVE-2025-49763: ESI plugin does not have the limit for maximum inclusion depth, and that allows excessive memory consumption if malicious instructions are inserted. Users can use a new setting for the plugin (--max-inclusion-depth) to limit it. This issue affects Apache Traffic Server: from 10.0.0 through 10.0.5, from 9.0.0 through 9.2.10. Users are recommended to upgrade to version 9.2.11 or 10.0.6, which fixes the issue.
+CVE-2025-49127: Kafbat UI is a web user interface for managing Apache Kafka clusters. An unsafe deserialization vulnerability in version 1.0.0 allows any unauthenticated user to execute arbitrary code on the server. Version 1.1.0 fixes the issue.
+CVE-2025-49125: Authentication Bypass Using an Alternate Path or Channel vulnerability in Apache Tomcat. When using PreResources or PostResources mounted other than at the root of the web application, it was possible to access those resources via an unexpected path. That path was likely not to be protected by the same security constraints as the expected path, allowing those security constraints to be bypassed. This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.7, from 10.1.0-M1 through 10.1.41, from 9.0.0.M1 through 9.0.105. Users are recommended to upgrade to version 11.0.8, 10.1.42 or 9.0.106, which fix the issue.
+
+===== Report for https://juice-shop.herokuapp.com/ =====
+IP Address: 54.73.53.134
+Open Ports: [80, 443]
+Filtered/Closed Ports: [21, 22, 25, 3389, 8080, 8443, 53, 110, 143, 3306, 5432]
+Firewall Status: Possible firewall detected (many filtered/closed ports)
+Software/Version: Not detected from headers.
+
+===== Report for https://webgoat-demo.herokuapp.com/WebGoat =====
+IP Address: 34.241.115.67
+Open Ports: [80, 443]
+Filtered/Closed Ports: [21, 22, 25, 3389, 8080, 8443, 53, 110, 143, 3306, 5432]
+Firewall Status: Possible firewall detected (many filtered/closed ports)
+Software: heroku-router Version: 
+ERROR: RedHat: 403 Client Error: Forbidden for url: https://access.redhat.com/labs/securitydataapi/cve.json?package=heroku-router
+: 
+
+===== Report for http://mutillidae2.samsclass.info/ =====
+IP Address: ERROR: [Errno 11001] getaddrinfo failed

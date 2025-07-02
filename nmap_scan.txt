@@ -1,4 +1,0 @@
-
-PORT     STATE SERVICE VERSION
-80/tcp   open  http    Apache httpd 2.4.49 ((Unix))
-443/tcp  open  https   nginx 1.18.0

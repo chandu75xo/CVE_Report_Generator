@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import tempfile
-from script2 import process_url, get_urls
+from scripts.script2 import process_url, get_urls
 
 st.set_page_config(page_title="Multi-Source CVE Scanner", layout="wide")
 st.title("🔎 Multi-Source CVE Scanner")

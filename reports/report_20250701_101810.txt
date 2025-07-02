@@ -1,0 +1,36 @@
+Scan Report - 20250701_101810
+==================================================
+
+Target: https://localhost:1337
+------------------------------
+IP/Hostname: 127.0.0.1
+Open Ports Found:
+  Port 1337/tcp: http Apache httpd 2.4.62
+  Port 3306/tcp: mysql? 
+  Port 8080/tcp: http Apache Tomcat (language: en)
+HTTP Server: Apache/2.4.62 (Debian)
+X-Powered-By: PHP/8.2.25
+WordPress Version: Unknown
+Plugins Detected: []
+CVEs Found for Apache:
+  CVE-2025-50213: Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) vulnerabilit
+  CVE-2025-49763: ESI plugin does not have the limit for maximum inclusion depth, and that allows excessive memory con
+  CVE-2025-49127: Kafbat UI is a web user interface for managing Apache Kafka clusters. An unsafe deserialization vuln
+  CVE-2025-49125: Authentication Bypass Using an Alternate Path or Channel vulnerability in Apache Tomcat. When using 
+  CVE-2025-49124: Untrusted Search Path vulnerability in Apache Tomcat installer for Windows. During installation, the
+
+==================================================
+
+Target: http://localhost:8080/WebGoat
+------------------------------
+IP/Hostname: 127.0.0.1
+Open Ports Found:
+  Port 1337/tcp: http Apache httpd 2.4.62
+  Port 3306/tcp: mysql? 
+  Port 8080/tcp: http Apache Tomcat (language: en)
+HTTP Server: 
+X-Powered-By: 
+Application: WebGoat detected at /WebGoat - Server: 
+
+==================================================
+

@@ -1,0 +1,31 @@
+Scan Report - 20250701_101123
+==================================================
+
+Target: https://localhost:1337
+------------------------------
+IP/Hostname: 127.0.0.1
+Services Found:
+  Port 1337/tcp: http Apache httpd 2.4.62
+  Port 3306/tcp: mysql? 
+  Port 8080/tcp: http Apache Tomcat (language: en)
+HTTP Server: Apache/2.4.62 (Debian)
+X-Powered-By: PHP/8.2.25
+WordPress Version: Unknown
+Plugins Detected: []
+No CVEs found for detected software.
+
+==================================================
+
+Target: http://localhost:8080/WebGoat
+------------------------------
+IP/Hostname: 127.0.0.1
+Services Found:
+  Port 1337/tcp: http Apache httpd 2.4.62
+  Port 3306/tcp: mysql? 
+  Port 8080/tcp: http Apache Tomcat (language: en)
+HTTP Server: 
+X-Powered-By: 
+Application: WebGoat detected at /WebGoat - Server: 
+
+==================================================
+

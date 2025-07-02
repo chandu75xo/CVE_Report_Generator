@@ -1,0 +1,59 @@
+===== http://www.itsecgames.com/ =====
+IP: 31.3.96.40
+Services: [('ssh', 'OpenSSH'), ('http', 'Apache'), ('ssl/https?', '')]
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 10     | 10        
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (10):
+  CVE-2023-51384
+  CVE-2023-51385
+  CVE-2023-5616
+  CVE-2024-6387
+  CVE-2024-6409
+  CVE-2024-7589
+  CVE-2025-26466
+  CVE-2025-30095
+  CVE-2025-32728
+  CVE-2025-48416
+
+[CIRCL]
+
+[MITRE]
+  CVE-2025-48416: An OpenSSH daemon listens on TCP port 22. There is a hard-coded entry in the "/e
+  CVE-2025-32728: In sshd in OpenSSH before 10.0, the DisableForwarding directive does not adhere 
+  CVE-2025-30095: VyOS 1.3 through 1.5 (fixed in 1.4.2) or any Debian-based system using dropbear 
+  CVE-2025-26466: A flaw was found in the OpenSSH package. For each ping packet the SSH server rec
+  CVE-2024-7589: A signal handler in sshd(8) may call a logging function that is not async-signal
+  CVE-2024-6409: A race condition vulnerability was discovered in how signals are handled by Open
+  CVE-2024-6387: A security regression (CVE-2006-5051) was discovered in OpenSSH's server (sshd).
+  CVE-2023-5616: In Ubuntu, gnome-control-center did not properly reflect SSH remote login status
+  CVE-2023-51385: In ssh in OpenSSH before 9.6, OS command injection might occur if a user name or
+  CVE-2023-51384: In ssh-agent in OpenSSH before 9.6, certain destination constraints can be incom
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== https://webgoat-demo.herokuapp.com/WebGoat =====
+IP: 46.137.15.86
+Services: []

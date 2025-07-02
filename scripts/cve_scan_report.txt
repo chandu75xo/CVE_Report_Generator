@@ -1,0 +1,18 @@
+ENHANCED PARALLEL CVE SCANNER REPORT
+Generated: 2025-07-01 10:27:15
+URLs Scanned: 1
+====================================================================================================
+
+URL: targets.txt
+IP Address: ERROR: DNS resolution failed - [Errno 11001] getaddrinfo failed
+Open Ports: []
+Filtered Ports: 0
+Software: None
+Version: None
+Server Header: None
+X-Powered-By: None
+CVEs Found: 0
+------------------------------------------------------------
+
+====================================================================================================
+

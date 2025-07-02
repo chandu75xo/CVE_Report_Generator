@@ -1,0 +1,25 @@
+Scan Report - 20250701_100708
+==================================================
+
+Target: https://localhost:1337
+------------------------------
+IP/Hostname: 127.0.0.1
+Server: Apache/2.4.62 (Debian)
+X-Powered-By: PHP/8.2.25
+WordPress Version: Unknown
+Plugins Detected: []
+Open Ports: [8080, 1337, 3306]
+No CVEs found for detected software.
+
+==================================================
+
+Target: http://localhost:8080/WebGoat
+------------------------------
+IP/Hostname: 127.0.0.1
+Server: 
+X-Powered-By: 
+Application: WebGoat detected at /WebGoat - Server: 
+Open Ports: [8080, 1337, 3306]
+
+==================================================
+

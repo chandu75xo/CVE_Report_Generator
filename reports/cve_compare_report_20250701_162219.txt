@@ -1,0 +1,440 @@
+===== http://www.itsecgames.com/ =====
+IP: 31.3.96.40
+Services: []
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 0      | 0         
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (0):
+
+[CIRCL]
+
+[MITRE]
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== https://webgoat-demo.herokuapp.com/WebGoat =====
+IP: 3.210.192.5
+Services: []
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 0      | 0         
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (0):
+
+[CIRCL]
+
+[MITRE]
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== http://testphp.vulnweb.com/ =====
+IP: 44.228.249.3
+Services: [('http', 'nginx')]
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 10     | 10        
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (10):
+  CVE-2024-32760
+  CVE-2024-33452
+  CVE-2024-34161
+  CVE-2024-35200
+  CVE-2024-45614
+  CVE-2024-7347
+  CVE-2025-23001
+  CVE-2025-46727
+  CVE-2025-46728
+  CVE-2025-50202
+
+[CIRCL]
+
+[MITRE]
+  CVE-2025-50202: Lychee is a free photo-management tool. In versions starting from 6.6.6 to befor
+  CVE-2025-46728: cpp-httplib is a C++ header-only HTTP/HTTPS server and client library. Prior to 
+  CVE-2025-46727: Rack is a modular Ruby web server interface. Prior to versions 2.2.14, 3.0.16, a
+  CVE-2025-23001: ** DISPUTED ** A Host header injection vulnerability exists in CTFd 3.7.5, due t
+  CVE-2024-7347: NGINX Open Source and NGINX Plus have a vulnerability in the ngx_http_mp4_module
+  CVE-2024-45614: Puma is a Ruby/Rack web server built for parallelism. In affected versions clien
+  CVE-2024-35200: When NGINX Plus or NGINX OSS are configured to use the HTTP/3 QUIC module, undis
+  CVE-2024-34161: When NGINX Plus or NGINX OSS are configured to use the HTTP/3 QUIC module and th
+  CVE-2024-33452: An issue in OpenResty lua-nginx-module v.0.10.26 and before allows a remote atta
+  CVE-2024-32760: When NGINX Plus or NGINX OSS are configured to use the HTTP/3 QUIC module, undis
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== http://xvwa-demo.herokuapp.com/ =====
+IP: 107.22.57.98
+Services: []
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 0      | 0         
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (0):
+
+[CIRCL]
+
+[MITRE]
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== https://juice-shop.herokuapp.com/ =====
+IP: 46.137.15.86
+Services: []
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 0      | 0         
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (0):
+
+[CIRCL]
+
+[MITRE]
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== http://hackazon.webscantest.com/ =====
+IP: 69.164.223.171
+Services: [('http', 'Apache'), ('ssl/http', 'Apache')]
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 10     | 10        
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (10):
+  CVE-2024-52317
+  CVE-2024-7012
+  CVE-2024-7923
+  CVE-2025-25069
+  CVE-2025-27636
+  CVE-2025-27867
+  CVE-2025-29891
+  CVE-2025-31492
+  CVE-2025-31650
+  CVE-2025-3891
+
+[CIRCL]
+
+[MITRE]
+  CVE-2025-3891: A flaw was found in the mod_auth_openidc module for Apache httpd. This flaw allo
+  CVE-2025-31650: Improper Input Validation vulnerability in Apache Tomcat. Incorrect error handli
+  CVE-2025-31492: mod_auth_openidc is an OpenID Certified authentication and authorization module 
+  CVE-2025-29891: Bypass/Injection vulnerability in Apache Camel. This issue affects Apache Camel:
+  CVE-2025-27867: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripti
+  CVE-2025-27636: Bypass/Injection vulnerability in Apache Camel components under particular condi
+  CVE-2025-25069: A Cross-Protocol Scripting vulnerability is found in Apache Kvrocks. Since Kvroc
+  CVE-2024-7923: An authentication bypass vulnerability has been identified in Pulpcore when depl
+  CVE-2024-7012: An authentication bypass vulnerability has been identified in Foreman when deplo
+  CVE-2024-52317: Incorrect object re-cycling and re-use vulnerability in Apache Tomcat. Incorrect
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== http://mutillidae2.samsclass.info/ =====
+IP: mutillidae2.samsclass.info
+Services: []
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 0      | 0         
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (0):
+
+[CIRCL]
+
+[MITRE]
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== https://google-gruyere.appspot.com/ =====
+IP: 142.250.194.244
+Services: []
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 0      | 0         
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (0):
+
+[CIRCL]
+
+[MITRE]
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== http://zero.webappsecurity.com/ =====
+IP: 54.82.22.214
+Services: [('http', 'Apache'), ('ssl/https?', ''), ('http', 'Apache')]
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 10     | 10        
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (10):
+  CVE-2024-52317
+  CVE-2024-7012
+  CVE-2024-7923
+  CVE-2025-25069
+  CVE-2025-27636
+  CVE-2025-27867
+  CVE-2025-29891
+  CVE-2025-31492
+  CVE-2025-31650
+  CVE-2025-3891
+
+[CIRCL]
+
+[MITRE]
+  CVE-2025-3891: A flaw was found in the mod_auth_openidc module for Apache httpd. This flaw allo
+  CVE-2025-31650: Improper Input Validation vulnerability in Apache Tomcat. Incorrect error handli
+  CVE-2025-31492: mod_auth_openidc is an OpenID Certified authentication and authorization module 
+  CVE-2025-29891: Bypass/Injection vulnerability in Apache Camel. This issue affects Apache Camel:
+  CVE-2025-27867: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripti
+  CVE-2025-27636: Bypass/Injection vulnerability in Apache Camel components under particular condi
+  CVE-2025-25069: A Cross-Protocol Scripting vulnerability is found in Apache Kvrocks. Since Kvroc
+  CVE-2024-7923: An authentication bypass vulnerability has been identified in Pulpcore when depl
+  CVE-2024-7012: An authentication bypass vulnerability has been identified in Foreman when deplo
+  CVE-2024-52317: Incorrect object re-cycling and re-use vulnerability in Apache Tomcat. Incorrect
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+
+===== http://demo.testfire.net/ =====
+IP: 65.61.137.117
+Services: [('http', 'Apache'), ('ssl/http', 'Apache'), ('http', 'Apache')]
+
+--- CVE Source Comparison ---
+Source           | # CVEs | Unique CVEs
+----------------------------------------
+CIRCL            | 0      | 0         
+MITRE            | 10     | 10        
+Exploit-DB       | 0      | 0         
+CVE Details      | 0      | 0         
+Packet Storm     | 0      | 0         
+Vulners          | 0      | 0         
+SecurityFocus    | 0      | 0         
+Rapid7           | 0      | 0         
+
+Common CVEs across all sources (10):
+  CVE-2024-52317
+  CVE-2024-7012
+  CVE-2024-7923
+  CVE-2025-25069
+  CVE-2025-27636
+  CVE-2025-27867
+  CVE-2025-29891
+  CVE-2025-31492
+  CVE-2025-31650
+  CVE-2025-3891
+
+[CIRCL]
+
+[MITRE]
+  CVE-2025-3891: A flaw was found in the mod_auth_openidc module for Apache httpd. This flaw allo
+  CVE-2025-31650: Improper Input Validation vulnerability in Apache Tomcat. Incorrect error handli
+  CVE-2025-31492: mod_auth_openidc is an OpenID Certified authentication and authorization module 
+  CVE-2025-29891: Bypass/Injection vulnerability in Apache Camel. This issue affects Apache Camel:
+  CVE-2025-27867: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripti
+  CVE-2025-27636: Bypass/Injection vulnerability in Apache Camel components under particular condi
+  CVE-2025-25069: A Cross-Protocol Scripting vulnerability is found in Apache Kvrocks. Since Kvroc
+  CVE-2024-7923: An authentication bypass vulnerability has been identified in Pulpcore when depl
+  CVE-2024-7012: An authentication bypass vulnerability has been identified in Foreman when deplo
+  CVE-2024-52317: Incorrect object re-cycling and re-use vulnerability in Apache Tomcat. Incorrect
+
+[Exploit-DB]
+
+[CVE Details]
+
+[Packet Storm]
+
+[Vulners]
+
+[SecurityFocus]
+
+[Rapid7]
+
+============================================================
+

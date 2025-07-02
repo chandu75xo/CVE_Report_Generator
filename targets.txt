@@ -1,0 +1,2 @@
+https://localhost:1337
+http://localhost:8080/WebGoat
